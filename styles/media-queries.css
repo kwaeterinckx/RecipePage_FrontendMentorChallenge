@@ -1,0 +1,16 @@
+@media (width >=600px) {
+    .recipe {
+        margin-block: var(--spacing-1600);
+        margin-inline: var(--spacing-600);
+        border-radius: var(--spacing-300);
+    }
+
+    .recipe__image__container {
+        margin: var(--spacing-500);
+        margin-bottom: 0;
+    }
+
+    .recipe__image {
+        border-radius: var(--spacing-150);
+    }
+}
