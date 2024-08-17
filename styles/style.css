@@ -137,6 +137,7 @@ img {
 
 .recipe__item::marker {
     color: var(--clr-brown-800);
+    font-weight: var(--fw-bold);
 }
 
 .recipe__item--time::marker {
